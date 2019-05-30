@@ -1,0 +1,5 @@
+Bye:		'hahvah
+Hello:		sikai
+No:		mow
+Yes:		bayhah
+Wow:		soh

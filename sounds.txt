@@ -1,0 +1,5 @@
+CON: |F  |H  |K  |L  |M  |N  |P  |S  |T  |TH |SH |TS |X  |
+VOI: |V  |"  |G  |-  |-  |-  |B  |Z  |D  |DH |ZH |DZ |J  |
+SOF: |FY |HY |QU |-  |MY |NY |PW |SW |TW |THR|SHW|TSY|XW |
+BOT: |VW |Y  |GW |-  |-  |-  |BW |ZW |DW |-  |ZHR|DZW|DR |
+VOL: |EI |A  |Æ  |E  |I  |IU |Î  |AI |O  |U  |AO |Û  |

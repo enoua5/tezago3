@@ -1,0 +1,49 @@
+word
+{
+  display: block;
+  border-bottom: 1px solid black;
+  padding: 1em
+}
+pro:before
+{
+  content: "[";
+}
+pro:after
+{
+  content: "]";
+
+}
+part
+{
+  font-style: italic
+}
+defs
+{
+  counter-reset: def-counter;
+}
+defs def
+{
+  counter-increment: def-counter;
+  display: block;
+}
+def:before
+{
+  content: counter(def-counter) ". ";
+}
+translation
+{
+  display: block;
+  font-style: italic;
+}
+translation:before
+{
+  content: "recommended translations: ";
+}
+eng:before, eng:last-child:after
+{
+  content: "\""
+}
+eng:not(:last-child):after
+{
+  content: "\", "
+}
